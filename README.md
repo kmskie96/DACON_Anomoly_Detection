@@ -15,6 +15,8 @@
 * numpy
 * matplotlib
 * tensorflow (2.7)
+* openvc-python
+* imgaug
 
 ### Hardware & Software
 > * Window10 (64bit)
