@@ -15,6 +15,7 @@
 * numpy
 * matplotlib
 * tensorflow (2.7)
+* scikit-learn
 * openvc-python
 * imgaug
 
