@@ -15,6 +15,7 @@
 * numpy
 * matplotlib
 * tensorflow (2.7)
+* scikit-learn
 * openvc-python
 * imgaug
 
@@ -23,4 +24,4 @@
 > * GPU 3060ti 8GB
 >   * 466.77-desktop-win10-64bit-international-whql
 >   * CUDA v11.3
->   * CUDNN v8.3
+>   * CUDNN v8.1
